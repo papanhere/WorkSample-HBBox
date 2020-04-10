@@ -1,0 +1,249 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    
+
+}
+
+
+
+
+
+#top-bar .navbar
+{
+    text-align: center;
+
+}
+
+#top-bar h4
+{
+    font-size: 14px;
+    color: #fff;
+}
+
+ul
+{
+    padding-right: 30px;
+}
+
+#nav-bar
+{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background-color: #F53F85;
+    scrollbar-darkshadow-color: black;
+}
+
+
+.navbar-brand img
+{
+    height: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.hotline h4
+{
+    color: #fff;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.navbar-nav li
+{
+    padding: o 15px;
+   
+}
+
+.navbar-nav li a
+{
+    float: right;
+    text-align: left;
+}
+
+#nav-bar ul li a:hover
+{
+    color: #007bff!important;
+}
+
+.navbar-toggler
+{
+    border: none;
+}
+
+.nav-item h5
+{
+    font-size: 15px;
+    color: #fff;
+    
+}
+
+.nav-link
+{
+    color: #fff!important;
+    font-weight: 400;
+    font-size: 17px;
+    
+}
+
+
+/* Food-Menu */
+
+.second-nav ul
+{
+    margin-left: 150px;
+}
+
+.second-nav form
+{
+    margin-right: 150px;
+
+}
+
+.second-nav
+{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background-color: #F53F85;
+    scrollbar-darkshadow-color: black;
+}
+
+
+.navbar-nav li
+{
+    padding: o 15px;
+   
+}
+
+.second-nav li a
+{
+    float: right;
+    text-align: left;
+}
+
+.second-nav ul li a:hover
+{
+    color: yellow!important;
+}
+
+
+
+.nav-link
+{
+    color: #fff!important;
+    font-weight: 400;
+    font-size: 17px;
+    
+}
+
+
+
+
+
+
+
+/* Food List */
+
+#food-list
+{
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+#food-list h1
+{
+    color: #555;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+#food-list h1:after
+{
+content: '';
+    background: #555;
+    display: block;
+    height: 3px;
+    width: 170px;
+    margin: 8px auto 5px;
+}
+
+
+/* Contact us */
+
+#contact
+{
+    /* background: #0a0101;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: #777; */
+
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(Images/cook.jpg);
+    background-size: cover;
+    background-position: center;
+    color: #efefef !important;
+    background-attachment: fixed;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+#contact h1
+{
+    color: #fff;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+#contact h1::after
+{
+    content: '';
+    background: #efefef;
+    display: block;
+    height: 3px;
+    width: 170px;
+    margin: 20px auto 5px;
+}
+
+.contact-form
+{
+    padding: 15px;
+}
+
+
+
+.follow
+{
+    background: rgb(14, 122, 126);
+    padding: 10px;
+    margin: 15px;
+    text-align: center;
+    font-size: 16.2px;
+}
+
+.contact-info .fa
+{
+    color: #0fcc19;
+    
+}
+
+.contact-info .fa-facebook-square
+{
+    padding: 10px;
+    font-weight: bold;
+}
+
+
+/* Footer */
+
+.row h6
+{
+    padding: 35px;
+    color: #555;
+}
+
+.footer .footer-icon
+{
+    font-size: 40px;
+} 
